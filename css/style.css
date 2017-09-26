@@ -1293,8 +1293,8 @@ margin-left: 15px;
   left: 0px;
 }
 .gp-img {
-  position : absolute;
-  right : 25px;
+  position : relative;
+  right : 0px;
 }
 .celestine-logo {
  width : 300px;
